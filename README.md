@@ -1,5 +1,9 @@
 # Dicoding Collection Dashboard ✨
 
+Project: Bike Sharing Data Analysis & Dashboard
+Course: Belajar Analisis Data dengan Python
+Platform: Dicoding Indonesia
+
 ## Setup environment
 ```
 conda create --name main-ds python=3.11
